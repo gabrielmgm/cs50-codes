@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Had a significantly longer execution time for files in reverse order.
+
+sort2 uses: Selection Sort
+
+How do you know?: Had consistent execution time across all files.
+
+sort3 uses: Merge Sort
+
+How do you know?: Performed better in reverse order.
